@@ -4,6 +4,16 @@ $configs = new HXPHP\System\Configs\Config;
 
 $configs->env->add('development');
 
+$configs->env->development->baseURI = '/http_painel/';
+
+  $configs->env->development->database->setConnectionData([
+  'host' => 'localhost',
+  'user' => 'root',
+  'password' => '',
+  'dbname' => 'controllpainel',
+  'charset' => 'utf8'
+  ]);
+
 /*
   //Globais
   $configs->title = 'Titulo customizado';
