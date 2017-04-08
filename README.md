@@ -1,6 +1,8 @@
 # Megavale Soluções - Tecnologia e Desenvolvimento.
 
-[http://www.megavalesolucoes.com.br/folders/19032017_0059.png]
+Projeto Estudado por Alexandro F S Martins & Márcio Laia (Megavale Soluções).
+
+##Contribuição Canal HXTUTORS, ao amigo Prof. Bruno Santos.
 
 --------------------------------------------------------------------
 
