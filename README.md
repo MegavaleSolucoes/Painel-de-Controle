@@ -2,7 +2,10 @@
 
 Projeto Estudado por Alexandro F S Martins & Márcio Laia (Megavale Soluções).
 
-##Contribuição Canal HXTUTORS, ao amigo Prof. Bruno Santos.
+--------------------------------------------------------------------
+##Contribuição 
+
+Canal HXTUTORS, ao amigo Prof. Bruno Santos.
 
 --------------------------------------------------------------------
 
