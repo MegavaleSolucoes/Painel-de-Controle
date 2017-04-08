@@ -12,7 +12,7 @@ $configs->env->development->baseURI = '/http_painel/';
   'host' => 'localhost',
   'user' => 'root',
   'password' => '',
-  'dbname' => 'controllpainel',
+  'dbname' => 'megavale_painel',
   'charset' => 'utf8'
   ]);
 
